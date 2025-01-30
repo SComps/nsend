@@ -1,6 +1,6 @@
 # nsend
 
-Command line:  nsend <ip address> <port>
+Command line:  nsend \<ip address\> \<port\>
 
 If you don't pipe or redirect into this, you can type whatever you want, and finish with a Conrol-Z  (^Z)
 
