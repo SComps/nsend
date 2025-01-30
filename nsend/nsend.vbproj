@@ -6,8 +6,8 @@
     <TargetFramework>net8.0</TargetFramework>
     <PublishAot>true</PublishAot>
     <InvariantGlobalization>true</InvariantGlobalization>
-    <AssemblyVersion>2025.1.30.26</AssemblyVersion>
-    <FileVersion>2025.1.30.26</FileVersion>
+    <AssemblyVersion>2025.1.30.27</AssemblyVersion>
+    <FileVersion>2025.1.30.27</FileVersion>
     <Platforms>AnyCPU;x64</Platforms>
   </PropertyGroup>
 
